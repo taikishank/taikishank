@@ -1,0 +1,4 @@
+- Hi, I'm Taiki!
+- I'm interested in machine learning and databases
+- I'm currently learning SQL and machine learning algorithms
+- Still Work In Progress!

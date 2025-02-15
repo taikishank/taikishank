@@ -1,4 +1,5 @@
 - Hi, I'm Taiki!
+- I am a Senior at San Diego State University studying Computer Science
 - I'm interested in machine learning and databases
-- I'm currently learning SQL and machine learning algorithms
+- I'm currently enrolled in: Machine Learning, Database Theory, Robotics, Systems Programming
 - Still Work In Progress!

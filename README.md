@@ -1,4 +1,4 @@
 - Hi, I'm Taiki!
-- I am a Senior at San Diego State University studying Computer Science
-- I'm interested in machine learning and databases
-- Currently working as the Data Engineer Team Lead for SDSU's World Computing Organization!
+- San Diego State University Senior
+- SDSU - World Computing Organization Data Engineer Team Lead
+- Startup soon...

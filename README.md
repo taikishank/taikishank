@@ -1,4 +1,4 @@
 - Hi, I'm Taiki!
-- San Diego State University Senior
+- San Diego State University Alumni
 - SDSU - World Computing Organization Data Engineer Team Lead
-- Startup soon...
+- Founder of Ultimate Fantasy

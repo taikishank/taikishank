@@ -1,5 +1,4 @@
 - Hi, I'm Taiki!
+- Founder of Ultimate Fantasy | Choose the way YOU want to play! | More details in the coming months...
 - San Diego State University Alumni
 - SDSU - World Computing Organization Data Engineer Team Lead
-- Founder of Ultimate Fantasy | Choose the way YOU want to play! (Github repository is currently PRIVATE)
-- More details coming soon...
